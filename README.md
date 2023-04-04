@@ -8,8 +8,6 @@
  &nbsp;&nbsp;
 <img src="./assets/doc-imgs/img2.png" alt="exemplo imagem" height="500px"  >
  &nbsp;&nbsp;
-<img src="./assets/doc-imgs/img3.png" alt="exemplo imagem" height="500px"  >
- &nbsp;&nbsp;
 <img src="./assets/doc-imgs/img4.png" alt="exemplo imagem" height="500px"  >
 
 </p>
@@ -38,7 +36,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o Login, siga estas etapas:
 
-- Clone esse repositório com `git clone https://github.com/gguilhermelopes/react-native-login
+- Clone esse repositório com `git clone https://github.com/gguilhermelopes/react-native-login`
 - `cd react-native-meals`
 - Instale as dependências com `npm install`
 
