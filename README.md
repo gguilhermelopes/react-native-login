@@ -37,7 +37,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Para instalar o Login, siga estas etapas:
 
 - Clone esse repositório com `git clone https://github.com/gguilhermelopes/react-native-login`
-- `cd react-native-meals`
+- `cd react-native-login`
 - Instale as dependências com `npm install`
 
 ## ☕ Usando Login
