@@ -15,7 +15,6 @@ export async function authenticate(
       returnSecureToken: true,
     }
   );
-  console.log(response);
 }
 
 export async function createUser(email, password) {
